@@ -1,5 +1,5 @@
 {
-  "name": "RunPulse AI Jogging Timer",
-  "description": "A professional-grade interval timer for runners with AI-powered motivational coaching and customizable workout phases.",
+  "name": "RunPulse Jogging Timer",
+  "description": "A simple interval running timer with customizable workout phases and basic motivational coaching.",
   "requestFramePermissions": []
 }

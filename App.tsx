@@ -275,7 +275,7 @@ const App: React.FC = () => {
           <div className="bg-orange-500 p-2 rounded-xl shadow-[0_0_20px_rgba(249,115,22,0.3)]">
             <HugeiconsIcon icon={HeartAddIcon} size={24} color="white" strokeWidth={2.5} />
           </div>
-          <h1 className="text-xl font-black italic tracking-tighter uppercase">RunPulse<span className="text-orange-500">AI</span></h1>
+          <h1 className="text-xl font-black italic tracking-tighter uppercase">RunPulse</h1>
         </div>
         <div className="flex items-center gap-4">
           <button
